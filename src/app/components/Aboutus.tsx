@@ -46,7 +46,7 @@ function Aboutus() {
       <div className="max-w-6xl mt-16 mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 px-6 text-center">
 
         <div>
-          <h2 className="text-4xl font-bold">10,000+</h2>
+          <h2 className="text-4xl font-bold">10,00+</h2>
           <p className="mt-2 font-semibold">Athletes Trained Since 2015</p>
           <p className="text-gray-600 mt-2 text-sm">
             Proven track record: 8 years, 10,000+ success stories.
